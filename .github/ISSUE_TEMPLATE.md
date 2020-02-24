@@ -1,3 +1,11 @@
+---
+name: issue template
+about: issue template for job
+title: "[徵才] XX有限公司 / Jr. Backend / Sr. Backend"
+labels: full-time
+assignees: Jian-Min-Huang
+---
+
 # 公司名稱
 XX有限公司
 
