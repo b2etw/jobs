@@ -1,12 +1,3 @@
----
-name: JOB_TEMPLATE
-about: 徵才範本
-title: ''
-labels: ''
-assignees: ''
-
----
-
 # 公司名稱
 XX有限公司
 
