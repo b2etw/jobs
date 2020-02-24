@@ -13,7 +13,12 @@ Please create new issue in [issues tab](https://github.com/b2etw/jobs/issues).
 
 如果你有徵才的需求請使用 [issues tab](https://github.com/b2etw/jobs/issues)
 
-# 其他
+# Other
+* Need to provide salary range for estimating personal skill level.
+* Issue will be label to outdated if 90 days don't have activity.
+* The outdated issue will be close if 7 days don't have activity.
+* We will lock discussion after close issue 7 days.
+- - -
 * 需附註薪資範圍，以供瀏覽者預估職能程度
 * 90 天沒任何活動就會標成 label: outdated
 * 標成 label: outdated 後 7 天沒活動就會自動關閉
