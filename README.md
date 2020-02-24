@@ -3,7 +3,7 @@ Welcome to backend jobs board. 🤗
 
 This group only provides direct recruitment of companies 👀, if you're head hunter please use other platform like Linkedin. ☺️
 
-Please create new issue in [issues tab](https://github.com/b2etw/jobs/issues).
+You can create job post in [issues tab](https://github.com/b2etw/jobs/issues).
 
 - - -
 
