@@ -13,6 +13,9 @@ XX有限公司
 # 公司地址
 100 台北市中正區重慶南路一段122號
 
+# 公司網站
+https://www.company.com
+
 # 職缺與薪資範圍
 * Jr. Backend Engineer (40~60K/Month)
 * Sr. Backend Engineer (60~80K/Month)
