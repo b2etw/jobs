@@ -23,7 +23,7 @@ XX有限公司
 * ability 1
 * ability 2
 
-### Nice to Have
+#### Nice to Have
 * request 1
 * request 2
 
@@ -35,6 +35,11 @@ XX有限公司
 #### Nice to Have
 * request 1
 * request 2
+
+# 面試流程
+* 電話面試
+* ＨＲ面試
+* 主管面試
 
 # 公司介紹
 ```
