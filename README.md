@@ -1,4 +1,4 @@
-# Backend Jobs Board ![GitHub issues](https://img.shields.io/github/issues-raw/b2etw/jobs?style=flat-square) ![GitHub watchers](https://img.shields.io/github/watchers/b2etw/jobs?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/b2etw/jobs?style=flat-square) 
+# Backend Jobs Board ![GitHub issues](https://img.shields.io/github/issues-raw/b2etw/jobs?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/b2etw/jobs?style=flat-square) 
 
 Welcome to backend jobs board.
 
