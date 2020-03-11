@@ -1,6 +1,6 @@
-# Backend Jobs Board [![GitHub issues](https://img.shields.io/github/issues-raw/b2etw/jobs.svg)](https://github.com/b2etw/jobs/issues?q=is%3Aissue+is%3Aopen+) [![GitHub stars](https://img.shields.io/github/stars/b2etw/jobs.svg)](https://github.com/b2etw/jobs/stargazers)
+# b2e.tw Jobs Board [![GitHub issues](https://img.shields.io/github/issues-raw/b2etw/jobs.svg)](https://github.com/b2etw/jobs/issues?q=is%3Aissue+is%3Aopen+) [![GitHub stars](https://img.shields.io/github/stars/b2etw/jobs.svg)](https://github.com/b2etw/jobs/stargazers)
 
-Welcome to backend jobs board.
+Welcome to b2e.tw jobs board.
 
 This group only provides direct recruitment of companies, if you're head hunter please use other platform like Linkedin.
 
@@ -8,13 +8,13 @@ You can create job post in [issues tab](https://github.com/b2etw/jobs/issues).
 
 - - -
 
-歡迎來到後端Jobs版 👏
+歡迎來到 b2e.tw Jobs版 👏
 
 本群僅提供公司直接徵才 👀，獵頭代徵請使用其他平台如 Linkedin 💎
 
 如果你有徵才的需求請使用 [issues tab](https://github.com/b2etw/jobs/issues) 🙏
 
-# Other
+### Other
 * Need to provide salary range for estimating personal skill level.
 * Issue will be label to outdated if 90 days don't have activity.
 * The outdated issue will be close if 7 days don't have activity.
