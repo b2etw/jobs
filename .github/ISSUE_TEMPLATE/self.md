@@ -7,4 +7,4 @@ assignees: Jian-Min-Huang
 
 ---
 
-## 暫時 Template 是 Free Style 的，說明清晰即可
+## Template 目前是 Free Style 的，說明清晰即可
