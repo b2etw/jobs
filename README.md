@@ -4,7 +4,7 @@ Welcome to b2e.tw jobs board.
 
 This group only provides direct recruitment of companies, if you're head hunter please use other platform like Linkedin.
 
-You can create job post in [issues tab](https://github.com/b2etw/jobs/issues).
+You can create job, seek-for-job, case post in [issues tab](https://github.com/b2etw/jobs/issues).
 
 - - -
 
@@ -12,7 +12,7 @@ You can create job post in [issues tab](https://github.com/b2etw/jobs/issues).
 
 本群僅提供公司直接徵才 👀，獵頭代徵請使用其他平台如 Linkedin 💎
 
-如果你有徵才的需求請使用 [issues tab](https://github.com/b2etw/jobs/issues) 🙏
+如果你有徵才、自薦、發案的需求請使用 [issues tab](https://github.com/b2etw/jobs/issues) 🙏
 
 ### Other
 * Need to provide salary range for estimating personal skill level.
